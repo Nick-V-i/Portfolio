@@ -1,4 +1,4 @@
-#№ Мой простой Landing Page
+## Мой простой Landing Page
 
 - Это простая страница [посмотрите сами]([https://pages.github.com/](https://Nick-V-i.github.io/Portfolio/).
 - Используется для продажи часов
